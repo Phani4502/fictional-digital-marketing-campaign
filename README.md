@@ -42,7 +42,5 @@ The layout is fully responsive for:
 - Tablet (768px to 1024px)  
 - Mobile devices (below 768px)
 
----
 
-## 📂 Folder Structure
 
